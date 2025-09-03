@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "Each of the players are ready.",
+      "Each of the players is ready.",
+      "Each of the player are ready.",
+      "Each of the player is ready."
+    ],
+    "answer": "Each of the players is ready."
+  },
+  {
+    "id": 2,
+    "question": "What is the meaning of the idiom 'beat around the bush'?",
+    "options": [
+      "To speak directly",
+      "To avoid talking about the main topic",
+      "To win a debate",
+      "To get angry quickly"
+    ],
+    "answer": "To avoid talking about the main topic"
+  },
+  {
+    "id": 3,
+    "question": "Identify the sentence in passive voice.",
+    "options": [
+      "The manager approved the proposal.",
+      "The proposal was approved by the manager.",
+      "The manager is approving the proposal.",
+      "The manager has approved the proposal."
+    ],
+    "answer": "The proposal was approved by the manager."
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct form of the verb: If she ___ earlier, she would have caught the train.",
+    "options": ["leaves", "left", "had left", "leave"],
+    "answer": "had left"
+  },
+  {
+    "id": 5,
+    "question": "What is the synonym of 'ubiquitous'?",
+    "options": ["rare", "everywhere", "invisible", "hidden"],
+    "answer": "everywhere"
+  },
+  {
+    "id": 6,
+    "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+    "options": ["Simile", "Personification", "Metaphor", "Hyperbole"],
+    "answer": "Personification"
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank: He speaks English as if he ___ a native speaker.",
+    "options": ["was", "were", "is", "be"],
+    "answer": "were"
+  },
+  {
+    "id": 8,
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Neither of the options are correct.",
+      "Neither of the options is correct.",
+      "Neither of the option is correct.",
+      "Neither options is correct."
+    ],
+    "answer": "Neither of the options is correct."
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct word: The CEO is known for her ___ leadership style.",
+    "options": ["visionary", "vision", "visioning", "visions"],
+    "answer": "visionary"
+  },
+  {
+    "id": 10,
+    "question": "What is the antonym of 'lucid'?",
+    "options": ["clear", "vague", "bright", "logical"],
+    "answer": "vague"
+  }
+]
