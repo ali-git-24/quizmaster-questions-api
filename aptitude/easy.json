@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "If a train travels 60 km in 1.5 hours, what is its speed?",
+    "options": ["30 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "answer": "40 km/h"
+  },
+  {
+    "id": 2,
+    "question": "Simplify: 15 + 25 × 2",
+    "options": ["80", "65", "70", "55"],
+    "answer": "65"
+  },
+  {
+    "id": 3,
+    "question": "What is 20% of 150?",
+    "options": ["20", "30", "25", "15"],
+    "answer": "30"
+  },
+  {
+    "id": 4,
+    "question": "If 5 workers complete a task in 10 days, how many days for 10 workers?",
+    "options": ["5", "7", "10", "2"],
+    "answer": "5"
+  },
+  {
+    "id": 5,
+    "question": "The average of 10, 20, 30 is:",
+    "options": ["15", "20", "25", "30"],
+    "answer": "20"
+  },
+  {
+    "id": 6,
+    "question": "A dozen bananas cost ₹60. What is the cost of 1 banana?",
+    "options": ["₹5", "₹4", "₹6", "₹3"],
+    "answer": "₹5"
+  },
+  {
+    "id": 7,
+    "question": "Simplify: 8² ÷ 4",
+    "options": ["16", "32", "8", "4"],
+    "answer": "16"
+  },
+  {
+    "id": 8,
+    "question": "If selling price = ₹120 and profit = ₹20, cost price is:",
+    "options": ["₹100", "₹110", "₹120", "₹90"],
+    "answer": "₹100"
+  },
+  {
+    "id": 9,
+    "question": "Find the missing number: 2, 4, 8, 16, ?",
+    "options": ["18", "24", "32", "20"],
+    "answer": "32"
+  },
+  {
+    "id": 10,
+    "question": "If 12 pens cost ₹144, cost of 1 pen is:",
+    "options": ["₹10", "₹11", "₹12", "₹13"],
+    "answer": "₹12"
+  },
+  {
+    "id": 11,
+    "question": "A clock shows 3:15. What is the angle between the hands?",
+    "options": ["7.5°", "0°", "45°", "90°"],
+    "answer": "7.5°"
+  },
+  {
+    "id": 12,
+    "question": "Find the simple interest: Principal ₹1000, Rate 5%, Time 2 years.",
+    "options": ["₹50", "₹100", "₹150", "₹200"],
+    "answer": "₹100"
+  },
+  {
+    "id": 13,
+    "question": "If 4x = 20, then x = ?",
+    "options": ["4", "5", "6", "8"],
+    "answer": "5"
+  },
+  {
+    "id": 14,
+    "question": "The next number in the series: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "answer": "80"
+  },
+  {
+    "id": 15,
+    "question": "A man walks 4 km east, then 3 km north. Distance from start point?",
+    "options": ["5 km", "6 km", "7 km", "4 km"],
+    "answer": "5 km"
+  },
+  {
+    "id": 16,
+    "question": "The average of first five odd numbers is:",
+    "options": ["3", "5", "7", "9"],
+    "answer": "5"
+  },
+  {
+    "id": 17,
+    "question": "Simplify: 144 ÷ 12 × 2",
+    "options": ["12", "24", "20", "18"],
+    "answer": "24"
+  },
+  {
+    "id": 18,
+    "question": "A shopkeeper buys a pen for ₹50 and sells it for ₹60. Profit percentage?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": "20%"
+  },
+  {
+    "id": 19,
+    "question": "If perimeter of a square is 40 cm, side length is:",
+    "options": ["8 cm", "10 cm", "12 cm", "16 cm"],
+    "answer": "10 cm"
+  },
+  {
+    "id": 20,
+    "question": "What is 3/4 of 200?",
+    "options": ["100", "120", "140", "150"],
+    "answer": "150"
+  }
+]
