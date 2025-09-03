@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "answer": "New Delhi"
+  },
+  {
+    "id": 2,
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhas Chandra Bose"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote the National Anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Mahatma Gandhi"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 5,
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 6,
+    "question": "Which festival is known as the festival of lights?",
+    "options": ["Holi", "Diwali", "Eid", "Christmas"],
+    "answer": "Diwali"
+  },
+  {
+    "id": 7,
+    "question": "Who is the current President of India (2025)?",
+    "options": ["Droupadi Murmu", "Ram Nath Kovind", "Pratibha Patil", "A.P.J. Abdul Kalam"],
+    "answer": "Droupadi Murmu"
+  },
+  {
+    "id": 8,
+    "question": "Which is the smallest state of India by area?",
+    "options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+    "answer": "Goa"
+  },
+  {
+    "id": 9,
+    "question": "Which is the national fruit of India?",
+    "options": ["Apple", "Banana", "Mango", "Papaya"],
+    "answer": "Mango"
+  },
+  {
+    "id": 10,
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Indira Gandhi", "Sardar Patel"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 11,
+    "question": "Which is the currency of Japan?",
+    "options": ["Won", "Yen", "Dollar", "Rupee"],
+    "answer": "Yen"
+  },
+  {
+    "id": 12,
+    "question": "Which Indian city is known as the Pink City?",
+    "options": ["Delhi", "Jaipur", "Udaipur", "Lucknow"],
+    "answer": "Jaipur"
+  },
+  {
+    "id": 13,
+    "question": "What is the national animal of India?",
+    "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+    "answer": "Tiger"
+  },
+  {
+    "id": 14,
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 15,
+    "question": "Which is the largest continent in the world?",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "answer": "Asia"
+  },
+  {
+    "id": 16,
+    "question": "In which year did India gain independence?",
+    "options": ["1942", "1947", "1950", "1952"],
+    "answer": "1947"
+  },
+  {
+    "id": 17,
+    "question": "Which sport is Sachin Tendulkar associated with?",
+    "options": ["Football", "Hockey", "Cricket", "Badminton"],
+    "answer": "Cricket"
+  },
+  {
+    "id": 18,
+    "question": "Which is the largest state in India by area?",
+    "options": ["Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Maharashtra"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 19,
+    "question": "What is the national flower of India?",
+    "options": ["Lotus", "Rose", "Sunflower", "Marigold"],
+    "answer": "Lotus"
+  },
+  {
+    "id": 20,
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  }
+]
