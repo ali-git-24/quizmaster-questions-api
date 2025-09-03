@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "question": "What is a dangling pointer?",
+    "options": [
+      "Pointer that does not point to a valid memory location",
+      "Pointer initialized to NULL",
+      "Pointer pointing to a constant",
+      "Pointer inside a struct"
+    ],
+    "answer": "Pointer that does not point to a valid memory location"
+  },
+  {
+    "id": 2,
+    "question": "What is a memory leak in C?",
+    "options": [
+      "Allocated memory that is not freed",
+      "Variable without initialization",
+      "Recursive function",
+      "Buffer overflow"
+    ],
+    "answer": "Allocated memory that is not freed"
+  },
+  {
+    "id": 3,
+    "question": "What is the output of `printf(\"%d\", sizeof(void));`?",
+    "options": ["Error", "0", "1", "Depends on compiler"],
+    "answer": "Error"
+  },
+  {
+    "id": 4,
+    "question": "What is a function pointer?",
+    "options": [
+      "Pointer that stores address of a function",
+      "Pointer used for recursion",
+      "Pointer used for memory allocation",
+      "Pointer to a struct"
+    ],
+    "answer": "Pointer that stores address of a function"
+  },
+  {
+    "id": 5,
+    "question": "What happens when you free the same memory twice?",
+    "options": [
+      "Undefined behavior",
+      "Compilation error",
+      "Memory leak",
+      "Nothing happens"
+    ],
+    "answer": "Undefined behavior"
+  },
+  {
+    "id": 6,
+    "question": "What is the output of `printf(\"%d\", *NULL);`?",
+    "options": ["Segmentation fault", "0", "NULL", "Compiler error"],
+    "answer": "Segmentation fault"
+  },
+  {
+    "id": 7,
+    "question": "Which keyword is used to prevent modification of a variable through a pointer?",
+    "options": ["const", "static", "volatile", "extern"],
+    "answer": "const"
+  },
+  {
+    "id": 8,
+    "question": "Which function is used to reallocate memory?",
+    "options": ["realloc()", "malloc()", "calloc()", "free()"],
+    "answer": "realloc()"
+  },
+  {
+    "id": 9,
+    "question": "What is recursion in C?",
+    "options": [
+      "Function calling itself",
+      "Looping statement",
+      "Pointer operation",
+      "Memory allocation"
+    ],
+    "answer": "Function calling itself"
+  },
+  {
+    "id": 10,
+    "question": "Which section of memory is used for dynamic allocation?",
+    "options": ["Heap", "Stack", "Code", "Static data"],
+    "answer": "Heap"
+  }
+]
