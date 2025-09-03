@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the extension of a C++ source file?",
+    "options": [".cpp", ".c", ".java", ".txt"],
+    "answer": ".cpp"
+  },
+  {
+    "id": 2,
+    "question": "Which keyword is used to define a class in C++?",
+    "options": ["class", "struct", "object", "define"],
+    "answer": "class"
+  },
+  {
+    "id": 3,
+    "question": "Which operator is used for input in C++?",
+    "options": ["cin >>", "cout <<", "scanf()", "input()"],
+    "answer": "cin >>"
+  },
+  {
+    "id": 4,
+    "question": "Which operator is used for output in C++?",
+    "options": ["cout <<", "cin >>", "printf()", "display()"],
+    "answer": "cout <<"
+  },
+  {
+    "id": 5,
+    "question": "C++ was developed by ______.",
+    "options": ["Bjarne Stroustrup", "Dennis Ritchie", "James Gosling", "Ken Thompson"],
+    "answer": "Bjarne Stroustrup"
+  },
+  {
+    "id": 6,
+    "question": "Which header is needed for cout and cin?",
+    "options": ["iostream", "stdio.h", "stdlib.h", "conio.h"],
+    "answer": "iostream"
+  },
+  {
+    "id": 7,
+    "question": "Which concept allows using the same function name with different parameters?",
+    "options": ["Function overloading", "Encapsulation", "Inheritance", "Polymorphism"],
+    "answer": "Function overloading"
+  },
+  {
+    "id": 8,
+    "question": "Which keyword is used to create objects dynamically in C++?",
+    "options": ["new", "malloc", "create", "alloc"],
+    "answer": "new"
+  },
+  {
+    "id": 9,
+    "question": "Which symbol ends a statement in C++?",
+    "options": [";", ":", ".", ","],
+    "answer": ";"
+  },
+  {
+    "id": 10,
+    "question": "Which function is automatically called when an object is created?",
+    "options": ["Constructor", "Destructor", "Main", "Initializer"],
+    "answer": "Constructor"
+  },
+  {
+    "id": 11,
+    "question": "Which function is automatically called when an object is destroyed?",
+    "options": ["Destructor", "Constructor", "Terminator", "Cleaner"],
+    "answer": "Destructor"
+  },
+  {
+    "id": 12,
+    "question": "Which operator is used to access members of a pointer object?",
+    "options": ["->", ".", "::", "*"],
+    "answer": "->"
+  },
+  {
+    "id": 13,
+    "question": "Which keyword is used to declare a constant in C++?",
+    "options": ["const", "constant", "define", "static"],
+    "answer": "const"
+  },
+  {
+    "id": 14,
+    "question": "Which feature in C++ allows object-oriented programming?",
+    "options": ["Classes and Objects", "Arrays", "Loops", "Functions"],
+    "answer": "Classes and Objects"
+  },
+  {
+    "id": 15,
+    "question": "Which loop is entry-controlled in C++?",
+    "options": ["for", "while", "do-while", "goto"],
+    "answer": "for"
+  },
+  {
+    "id": 16,
+    "question": "What is the default return type of main() in C++?",
+    "options": ["int", "void", "char", "float"],
+    "answer": "int"
+  },
+  {
+    "id": 17,
+    "question": "What is the size of a boolean type in C++?",
+    "options": ["1 byte", "2 bytes", "4 bytes", "Depends on compiler"],
+    "answer": "1 byte"
+  },
+  {
+    "id": 18,
+    "question": "What is used to handle exceptions in C++?",
+    "options": ["try-catch", "if-else", "switch", "goto"],
+    "answer": "try-catch"
+  },
+  {
+    "id": 19,
+    "question": "Which access specifier makes members accessible only within the class?",
+    "options": ["private", "public", "protected", "default"],
+    "answer": "private"
+  },
+  {
+    "id": 20,
+    "question": "Which keyword is used to define inheritance?",
+    "options": ["class Derived : public Base", "inherit", "extends", "subclass"],
+    "answer": "class Derived : public Base"
+  }
+]
