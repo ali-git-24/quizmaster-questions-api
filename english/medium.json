@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct word: She has ___ much work to finish today.",
+    "options": ["too", "to", "two", "tow"],
+    "answer": "too"
+  },
+  {
+    "id": 2,
+    "question": "Identify the correct sentence.",
+    "options": [
+      "She don't like apples.",
+      "She doesn't likes apples.",
+      "She doesn't like apples.",
+      "She don't likes apples."
+    ],
+    "answer": "She doesn't like apples."
+  },
+  {
+    "id": 3,
+    "question": "Which word is an antonym of 'expand'?",
+    "options": ["enlarge", "contract", "extend", "increase"],
+    "answer": "contract"
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct preposition: The cat is hiding ___ the bed.",
+    "options": ["in", "on", "under", "over"],
+    "answer": "under"
+  },
+  {
+    "id": 5,
+    "question": "Identify the part of speech of the word 'quickly' in the sentence: She runs quickly.",
+    "options": ["noun", "adjective", "adverb", "verb"],
+    "answer": "adverb"
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank: Neither John nor his friends ___ coming to the party.",
+    "options": ["is", "are", "was", "were"],
+    "answer": "are"
+  },
+  {
+    "id": 7,
+    "question": "Choose the correct sentence with proper punctuation.",
+    "options": [
+      "lets eat, grandma.",
+      "Let's eat grandma.",
+      "Let's eat, grandma.",
+      "Lets eat grandma."
+    ],
+    "answer": "Let's eat, grandma."
+  },
+  {
+    "id": 8,
+    "question": "Which is the correct synonym for 'benevolent'?",
+    "options": ["kind", "cruel", "lazy", "greedy"],
+    "answer": "kind"
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: The students ___ completed their homework.",
+    "options": ["has", "have", "having", "had"],
+    "answer": "have"
+  },
+  {
+    "id": 10,
+    "question": "Which word is a homophone of 'write'?",
+    "options": ["right", "rite", "wright", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct word: The teacher asked the students to ___ quietly.",
+    "options": ["sit", "seat", "set", "sat"],
+    "answer": "sit"
+  },
+  {
+    "id": 12,
+    "question": "What is the passive voice of 'She reads the book'?",
+    "options": ["The book is read by her", "The book was read by her", "The book has read her", "The book is reading by her"],
+    "answer": "The book is read by her"
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: He is taller ___ his brother.",
+    "options": ["than", "then", "that", "to"],
+    "answer": "than"
+  },
+  {
+    "id": 14,
+    "question": "Which of these sentences is in the future tense?",
+    "options": [
+      "She will travel tomorrow.",
+      "She is traveling now.",
+      "She traveled yesterday.",
+      "She travels every week."
+    ],
+    "answer": "She will travel tomorrow."
+  },
+  {
+    "id": 15,
+    "question": "Select the correct spelling.",
+    "options": ["accomodate", "accommodate", "acommodate", "accomadate"],
+    "answer": "accommodate"
+  }
+]
