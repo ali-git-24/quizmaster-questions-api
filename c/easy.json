@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the extension of a C language source file?",
+    "options": [".c", ".cpp", ".java", ".txt"],
+    "answer": ".c"
+  },
+  {
+    "id": 2,
+    "question": "Which function is used to print output in C?",
+    "options": ["printf()", "cout<<", "System.out.println()", "print()"],
+    "answer": "printf()"
+  },
+  {
+    "id": 3,
+    "question": "Which function is used to take input in C?",
+    "options": ["scanf()", "cin>>", "input()", "read()"],
+    "answer": "scanf()"
+  },
+  {
+    "id": 4,
+    "question": "C language is a ______ language.",
+    "options": ["compiled", "interpreted", "scripting", "markup"],
+    "answer": "compiled"
+  },
+  {
+    "id": 5,
+    "question": "Who is known as the father of C language?",
+    "options": ["Dennis Ritchie", "James Gosling", "Bjarne Stroustrup", "Guido van Rossum"],
+    "answer": "Dennis Ritchie"
+  },
+  {
+    "id": 6,
+    "question": "Which header file is required for printf()?",
+    "options": ["stdio.h", "conio.h", "stdlib.h", "string.h"],
+    "answer": "stdio.h"
+  },
+  {
+    "id": 7,
+    "question": "Which data type is used to store decimal values?",
+    "options": ["float", "int", "char", "double"],
+    "answer": "float"
+  },
+  {
+    "id": 8,
+    "question": "Which operator is used to assign a value in C?",
+    "options": ["=", "==", "->", "::"],
+    "answer": "="
+  },
+  {
+    "id": 9,
+    "question": "Which keyword is used to define a constant in C?",
+    "options": ["const", "define", "constant", "static"],
+    "answer": "const"
+  },
+  {
+    "id": 10,
+    "question": "Which symbol is used to indicate the end of a statement?",
+    "options": [";", ":", ".", ","],
+    "answer": ";"
+  },
+  {
+    "id": 11,
+    "question": "Which loop executes at least once even if the condition is false?",
+    "options": ["do-while", "for", "while", "switch"],
+    "answer": "do-while"
+  },
+  {
+    "id": 12,
+    "question": "What is the size of an int in most modern systems?",
+    "options": ["4 bytes", "2 bytes", "8 bytes", "1 byte"],
+    "answer": "4 bytes"
+  },
+  {
+    "id": 13,
+    "question": "What is the default value of an uninitialized local variable in C?",
+    "options": ["Garbage value", "0", "NULL", "Undefined"],
+    "answer": "Garbage value"
+  },
+  {
+    "id": 14,
+    "question": "Which loop is best when the number of iterations is known?",
+    "options": ["for", "while", "do-while", "goto"],
+    "answer": "for"
+  },
+  {
+    "id": 15,
+    "question": "What does 'return 0;' indicate in main()?",
+    "options": ["Successful execution", "Error", "Infinite loop", "None of the above"],
+    "answer": "Successful execution"
+  },
+  {
+    "id": 16,
+    "question": "Which keyword is used to include external files?",
+    "options": ["#include", "import", "using", "require"],
+    "answer": "#include"
+  },
+  {
+    "id": 17,
+    "question": "What does sizeof() operator return?",
+    "options": ["Size in bytes", "Number of elements", "Address of variable", "Value of variable"],
+    "answer": "Size in bytes"
+  },
+  {
+    "id": 18,
+    "question": "Which escape character is used for a newline?",
+    "options": ["\\n", "\\t", "\\r", "\\b"],
+    "answer": "\\n"
+  },
+  {
+    "id": 19,
+    "question": "Which type is used for storing characters?",
+    "options": ["char", "int", "string", "bool"],
+    "answer": "char"
+  },
+  {
+    "id": 20,
+    "question": "What is the index of the first element in an array in C?",
+    "options": ["0", "1", "-1", "Depends on compiler"],
+    "answer": "0"
+  }
+]
