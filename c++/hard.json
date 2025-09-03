@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What is the diamond problem in C++?",
+    "options": [
+      "Ambiguity due to multiple inheritance",
+      "Syntax error in templates",
+      "Problem with memory leaks",
+      "Overloading error"
+    ],
+    "answer": "Ambiguity due to multiple inheritance"
+  },
+  {
+    "id": 2,
+    "question": "Which casting operator performs a safe downcast at runtime?",
+    "options": ["dynamic_cast", "static_cast", "reinterpret_cast", "const_cast"],
+    "answer": "dynamic_cast"
+  },
+  {
+    "id": 3,
+    "question": "What is a vtable in C++?",
+    "options": [
+      "A table used for virtual function dispatch",
+      "A type of linked list",
+      "Memory allocation table",
+      "Template specialization table"
+    ],
+    "answer": "A table used for virtual function dispatch"
+  },
+  {
+    "id": 4,
+    "question": "What is RAII in C++?",
+    "options": [
+      "Resource Acquisition Is Initialization",
+      "Run As Inline Instruction",
+      "Runtime Allocation Internal Interface",
+      "Random Access Initialization Instance"
+    ],
+    "answer": "Resource Acquisition Is Initialization"
+  },
+  {
+    "id": 5,
+    "question": "What is the default access specifier for classes in C++?",
+    "options": ["private", "public", "protected", "default"],
+    "answer": "private"
+  },
+  {
+    "id": 6,
+    "question": "Which design pattern uses virtual functions heavily in C++?",
+    "options": ["Factory Method", "Singleton", "Decorator", "Observer"],
+    "answer": "Factory Method"
+  },
+  {
+    "id": 7,
+    "question": "What is the output of accessing a deleted pointer?",
+    "options": ["Undefined behavior", "0", "Segmentation fault", "Null"],
+    "answer": "Undefined behavior"
+  },
+  {
+    "id": 8,
+    "question": "What is the size of an empty class in C++?",
+    "options": ["1 byte", "0 bytes", "4 bytes", "Depends on compiler"],
+    "answer": "1 byte"
+  },
+  {
+    "id": 9,
+    "question": "Which feature allows different functions to have the same name but different signatures?",
+    "options": ["Function overloading", "Virtual functions", "Template specialization", "Encapsulation"],
+    "answer": "Function overloading"
+  },
+  {
+    "id": 10,
+    "question": "What is the significance of the `mutable` keyword in C++?",
+    "options": [
+      "Allows a member to be modified even in a const object",
+      "Makes a variable static",
+      "Protects data from modification",
+      "Enables inheritance"
+    ],
+    "answer": "Allows a member to be modified even in a const object"
+  }
+]
