@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "If the cost price of 12 apples is equal to the selling price of 10 apples, what is the profit percentage?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "answer": "20%"
+  },
+  {
+    "id": 2,
+    "question": "A train 150 meters long is running at 45 km/h. How long will it take to cross a man standing on the platform?",
+    "options": ["10 sec", "12 sec", "15 sec", "20 sec"],
+    "answer": "12 sec"
+  },
+  {
+    "id": 3,
+    "question": "Find the value of x if 3x + 5 = 20.",
+    "options": ["5", "6", "7", "8"],
+    "answer": "5"
+  },
+  {
+    "id": 4,
+    "question": "If 12 men can finish a work in 18 days, how many days will 9 men take to finish it?",
+    "options": ["20", "22", "24", "26"],
+    "answer": "24"
+  },
+  {
+    "id": 5,
+    "question": "The average of five consecutive odd numbers is 35. What is the highest number?",
+    "options": ["37", "39", "41", "43"],
+    "answer": "39"
+  },
+  {
+    "id": 6,
+    "question": "A sum of ₹5000 amounts to ₹6000 in 2 years at simple interest. What is the rate of interest?",
+    "options": ["8%", "9%", "10%", "12%"],
+    "answer": "10%"
+  },
+  {
+    "id": 7,
+    "question": "A boat goes 15 km downstream in 1.5 hours and returns in 3 hours. What is the speed of the stream?",
+    "options": ["2 km/h", "3 km/h", "4 km/h", "5 km/h"],
+    "answer": "2 km/h"
+  },
+  {
+    "id": 8,
+    "question": "The difference between the simple and compound interest on ₹10,000 at 10% per annum for 2 years is:",
+    "options": ["₹10", "₹20", "₹30", "₹40"],
+    "answer": "₹10"
+  },
+  {
+    "id": 9,
+    "question": "Two numbers are in the ratio 3:5. If their sum is 64, what is the larger number?",
+    "options": ["24", "30", "40", "45"],
+    "answer": "40"
+  },
+  {
+    "id": 10,
+    "question": "A sum of ₹12,000 is divided into two parts such that one part is invested at 5% and the other at 10% per annum. The total annual interest is ₹800. What is the amount invested at 10%?",
+    "options": ["₹4000", "₹5000", "₹6000", "₹7000"],
+    "answer": "₹6000"
+  },
+  {
+    "id": 11,
+    "question": "If the perimeter of a rectangle is 80 cm and its length is 30 cm, what is its width?",
+    "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+    "answer": "10 cm"
+  },
+  {
+    "id": 12,
+    "question": "The average of 15 numbers is 25. If each number is increased by 5, what will be the new average?",
+    "options": ["25", "30", "35", "40"],
+    "answer": "30"
+  },
+  {
+    "id": 13,
+    "question": "If selling price = ₹720 and profit percentage = 20%, what is the cost price?",
+    "options": ["₹500", "₹550", "₹600", "₹650"],
+    "answer": "₹600"
+  },
+  {
+    "id": 14,
+    "question": "The sum of two numbers is 50 and their difference is 10. What is the product of the two numbers?",
+    "options": ["500", "600", "600", "650"],
+    "answer": "600"
+  },
+  {
+    "id": 15,
+    "question": "The compound interest on ₹5000 at 8% per annum for 2 years is:",
+    "options": ["₹800", "₹832", "₹850", "₹860"],
+    "answer": "₹832"
+  }
+]
