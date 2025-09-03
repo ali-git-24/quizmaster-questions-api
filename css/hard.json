@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Which CSS function is used to define custom properties (variables)?",
+    "options": ["var()", "custom()", "--var()", "define()"],
+    "answer": "var()"
+  },
+  {
+    "id": 2,
+    "question": "What does `will-change` property do in CSS?",
+    "options": [
+      "Hints to the browser which elements will change for performance optimization",
+      "Changes animation speed",
+      "Controls viewport scaling",
+      "Creates hardware acceleration"
+    ],
+    "answer": "Hints to the browser which elements will change for performance optimization"
+  },
+  {
+    "id": 3,
+    "question": "What does the CSS property `contain` optimize?",
+    "options": [
+      "Rendering performance by isolating layout, style, and paint",
+      "Text scaling",
+      "Responsive behavior",
+      "Image quality"
+    ],
+    "answer": "Rendering performance by isolating layout, style, and paint"
+  },
+  {
+    "id": 4,
+    "question": "Which CSS feature allows nesting selectors in a cleaner syntax?",
+    "options": ["CSS Nesting Module", "SASS only", "PostCSS only", "CSS Grid"],
+    "answer": "CSS Nesting Module"
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between `absolute` and `fixed` positioning?",
+    "options": [
+      "Fixed is relative to the viewport; absolute is relative to a positioned ancestor",
+      "They behave the same",
+      "Absolute stays during scrolling; fixed scrolls away",
+      "Fixed and absolute are interchangeable"
+    ],
+    "answer": "Fixed is relative to the viewport; absolute is relative to a positioned ancestor"
+  },
+  {
+    "id": 6,
+    "question": "Which CSS property creates a clipping region where content outside is hidden?",
+    "options": ["clip-path", "mask", "overflow", "clip"],
+    "answer": "clip-path"
+  },
+  {
+    "id": 7,
+    "question": "Which at-rule is used for defining animations?",
+    "options": ["@keyframes", "@animation", "@motion", "@frames"],
+    "answer": "@keyframes"
+  },
+  {
+    "id": 8,
+    "question": "What does the CSS function `minmax()` do in a grid layout?",
+    "options": [
+      "Sets minimum and maximum sizes for grid tracks",
+      "Adjusts viewport width",
+      "Controls z-index levels",
+      "Defines animation duration"
+    ],
+    "answer": "Sets minimum and maximum sizes for grid tracks"
+  },
+  {
+    "id": 9,
+    "question": "Which CSS pseudo-class targets elements based on the value of a data attribute?",
+    "options": [":attr()", "[data-*]", ":has()", ":is()"],
+    "answer": "[data-*]"
+  },
+  {
+    "id": 10,
+    "question": "What does `aspect-ratio` property control?",
+    "options": ["Width-to-height ratio of an element", "Font scaling", "Animation ratio", "Grid row heights"],
+    "answer": "Width-to-height ratio of an element"
+  }
+]
