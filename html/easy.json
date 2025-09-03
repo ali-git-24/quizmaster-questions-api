@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyperlinking Text Markup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Which tag is used to create a paragraph in HTML?",
+    "options": ["<p>", "<para>", "<text>", "<br>"],
+    "answer": "<p>"
+  },
+  {
+    "id": 3,
+    "question": "Which tag is used to create a link?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "answer": "<a>"
+  },
+  {
+    "id": 4,
+    "question": "Which attribute is used with <img> to provide alternate text?",
+    "options": ["alt", "title", "src", "caption"],
+    "answer": "alt"
+  },
+  {
+    "id": 5,
+    "question": "How do you create an unordered list?",
+    "options": ["<ul>", "<ol>", "<list>", "<li>"],
+    "answer": "<ul>"
+  },
+  {
+    "id": 6,
+    "question": "Which tag defines the largest heading?",
+    "options": ["<h6>", "<h1>", "<head>", "<title>"],
+    "answer": "<h1>"
+  },
+  {
+    "id": 7,
+    "question": "Which attribute specifies the URL of a link?",
+    "options": ["href", "src", "link", "url"],
+    "answer": "href"
+  },
+  {
+    "id": 8,
+    "question": "Which tag is used to create a line break?",
+    "options": ["<break>", "<lb>", "<br>", "<hr>"],
+    "answer": "<br>"
+  },
+  {
+    "id": 9,
+    "question": "Where do you place the metadata (like <meta>) in an HTML document?",
+    "options": ["Inside <head>", "Inside <body>", "After </html>", "Before <!DOCTYPE>"],
+    "answer": "Inside <head>"
+  },
+  {
+    "id": 10,
+    "question": "Which tag is used to display a table row?",
+    "options": ["<tr>", "<td>", "<th>", "<table>"],
+    "answer": "<tr>"
+  },
+  {
+    "id": 11,
+    "question": "Which attribute is used to specify an image source?",
+    "options": ["src", "href", "link", "image"],
+    "answer": "src"
+  },
+  {
+    "id": 12,
+    "question": "What does the <title> tag define?",
+    "options": ["The title in the browser tab", "A visible page heading", "A paragraph", "The body content"],
+    "answer": "The title in the browser tab"
+  },
+  {
+    "id": 13,
+    "question": "Which tag is used for a numbered list?",
+    "options": ["<ol>", "<ul>", "<li>", "<dl>"],
+    "answer": "<ol>"
+  },
+  {
+    "id": 14,
+    "question": "Which HTML element is used to define important text (typically displayed bold)?",
+    "options": ["<strong>", "<b>", "<i>", "<em>"],
+    "answer": "<strong>"
+  },
+  {
+    "id": 15,
+    "question": "How do you add a comment in HTML?",
+    "options": ["<!-- comment -->", "// comment", "/* comment */", "# comment"],
+    "answer": "<!-- comment -->"
+  },
+  {
+    "id": 16,
+    "question": "Which tag is used to create a dropdown (select) menu?",
+    "options": ["<select>", "<input>", "<option>", "<dropdown>"],
+    "answer": "<select>"
+  },
+  {
+    "id": 17,
+    "question": "Which element should contain the visible page content?",
+    "options": ["<body>", "<head>", "<meta>", "<title>"],
+    "answer": "<body>"
+  },
+  {
+    "id": 18,
+    "question": "Which tag makes text italic?",
+    "options": ["<i>", "<b>", "<u>", "<strong>"],
+    "answer": "<i>"
+  },
+  {
+    "id": 19,
+    "question": "Which attribute is used with <a> to open a link in a new tab?",
+    "options": ["target=\"_blank\"", "new=\"true\"", "open=\"new\"", "tab=\"new\""],
+    "answer": "target=\"_blank\""
+  },
+  {
+    "id": 20,
+    "question": "Which tag is used to define the footer for a document or section?",
+    "options": ["<footer>", "<foot>", "<section>", "<bottom>"],
+    "answer": "<footer>"
+  }
+]
