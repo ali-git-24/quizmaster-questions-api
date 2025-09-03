@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "Which principle of OOP allows using the same function name but with different functionalities?",
+    "options": ["Polymorphism", "Encapsulation", "Inheritance", "Abstraction"],
+    "answer": "Polymorphism"
+  },
+  {
+    "id": 2,
+    "question": "Which function is called when an object goes out of scope?",
+    "options": ["Destructor", "Constructor", "Deallocator", "Cleaner"],
+    "answer": "Destructor"
+  },
+  {
+    "id": 3,
+    "question": "Which operator cannot be overloaded in C++?",
+    "options": ["::", "+", "==", "[]"],
+    "answer": "::"
+  },
+  {
+    "id": 4,
+    "question": "Which feature ensures that an object hides its internal details?",
+    "options": ["Encapsulation", "Polymorphism", "Inheritance", "Abstraction"],
+    "answer": "Encapsulation"
+  },
+  {
+    "id": 5,
+    "question": "What is function overloading?",
+    "options": [
+      "Same function name with different parameter lists",
+      "Same function name in different programs",
+      "Calling one function from another",
+      "Using inline functions"
+    ],
+    "answer": "Same function name with different parameter lists"
+  },
+  {
+    "id": 6,
+    "question": "Which keyword is used to inherit a class in C++?",
+    "options": ["public", "extends", "inherits", "base"],
+    "answer": "public"
+  },
+  {
+    "id": 7,
+    "question": "Which type of inheritance uses multiple base classes?",
+    "options": ["Multiple inheritance", "Multilevel inheritance", "Single inheritance", "Hierarchical inheritance"],
+    "answer": "Multiple inheritance"
+  },
+  {
+    "id": 8,
+    "question": "What is the size of a pointer on a 64-bit system?",
+    "options": ["8 bytes", "4 bytes", "2 bytes", "16 bytes"],
+    "answer": "8 bytes"
+  },
+  {
+    "id": 9,
+    "question": "Which concept is used for reusing existing code?",
+    "options": ["Inheritance", "Encapsulation", "Abstraction", "Polymorphism"],
+    "answer": "Inheritance"
+  },
+  {
+    "id": 10,
+    "question": "Which type of function cannot be virtual?",
+    "options": ["Constructor", "Member function", "Destructor", "Overloaded function"],
+    "answer": "Constructor"
+  },
+  {
+    "id": 11,
+    "question": "What is the return type of the `new` operator?",
+    "options": ["Pointer", "Integer", "Boolean", "Void"],
+    "answer": "Pointer"
+  },
+  {
+    "id": 12,
+    "question": "Which keyword is used to prevent overriding of a function?",
+    "options": ["final", "static", "sealed", "restrict"],
+    "answer": "final"
+  },
+  {
+    "id": 13,
+    "question": "What is a friend function?",
+    "options": [
+      "A function that can access private members of a class",
+      "A function outside the class",
+      "A function that inherits another function",
+      "A static member function"
+    ],
+    "answer": "A function that can access private members of a class"
+  },
+  {
+    "id": 14,
+    "question": "Which function in C++ is always inline by default?",
+    "options": ["Class member functions defined inside the class", "Constructor", "Destructor", "Virtual functions"],
+    "answer": "Class member functions defined inside the class"
+  },
+  {
+    "id": 15,
+    "question": "Which access specifier allows access from derived classes but not from outside?",
+    "options": ["protected", "private", "public", "internal"],
+    "answer": "protected"
+  }
+]
