@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "A sum of ₹12,000 is compounded annually at 10% for 3 years. What is the compound amount?",
+    "options": ["₹15,972", "₹15,500", "₹16,000", "₹14,400"],
+    "answer": "₹15,972"
+  },
+  {
+    "id": 2,
+    "question": "Two pipes can fill a tank in 20 and 30 minutes respectively. A third pipe can empty it in 15 minutes. If all pipes are opened together, how long will it take to fill the tank?",
+    "options": ["30 minutes", "40 minutes", "45 minutes", "60 minutes"],
+    "answer": "60 minutes"
+  },
+  {
+    "id": 3,
+    "question": "A person covers a certain distance downstream in 6 hours and returns upstream in 9 hours. If the speed of the boat in still water is 12 km/h, what is the speed of the stream?",
+    "options": ["2 km/h", "3 km/h", "4 km/h", "5 km/h"],
+    "answer": "2 km/h"
+  },
+  {
+    "id": 4,
+    "question": "A shopkeeper sells an article at a profit of 20%. If he had bought it for 10% less and sold it for ₹60 more, the profit percentage would have been 40%. What is the cost price of the article?",
+    "options": ["₹500", "₹600", "₹700", "₹800"],
+    "answer": "₹500"
+  },
+  {
+    "id": 5,
+    "question": "The ratio of the ages of A and B is 4:5. After 5 years, the ratio will be 5:6. What is the present age of A?",
+    "options": ["20 years", "25 years", "30 years", "35 years"],
+    "answer": "20 years"
+  },
+  {
+    "id": 6,
+    "question": "A sum becomes ₹7,200 in 2 years and ₹7,776 in 3 years at compound interest. Find the rate of interest per annum.",
+    "options": ["6%", "8%", "10%", "12%"],
+    "answer": "8%"
+  },
+  {
+    "id": 7,
+    "question": "The average of five consecutive multiples of 3 is 63. What is the largest number?",
+    "options": ["69", "72", "75", "78"],
+    "answer": "75"
+  },
+  {
+    "id": 8,
+    "question": "If a sum of money is doubled in 8 years at simple interest, in how many years will it triple?",
+    "options": ["12", "16", "20", "24"],
+    "answer": "16"
+  },
+  {
+    "id": 9,
+    "question": "A and B can do a piece of work in 12 days, B and C in 15 days, and A and C in 20 days. In how many days can A, B, and C do the work together?",
+    "options": ["10", "8", "6", "5"],
+    "answer": "10"
+  },
+  {
+    "id": 10,
+    "question": "The compound interest on a sum at 5% per annum for 3 years, compounded annually, is ₹1,576.25. Find the sum.",
+    "options": ["₹10,000", "₹12,000", "₹13,000", "₹14,000"],
+    "answer": "₹10,000"
+  }
+]
