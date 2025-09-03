@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of `2 + '2'` in JavaScript?",
+    "options": ["22", "4", "NaN", "Error"],
+    "answer": "22"
+  },
+  {
+    "id": 2,
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "options": ["JSON.parse()", "JSON.stringify()", "toObject()", "parse.JSON()"],
+    "answer": "JSON.parse()"
+  },
+  {
+    "id": 3,
+    "question": "What does `===` check in JavaScript?",
+    "options": ["Strict equality (value and type)", "Loose equality", "Only type equality", "Assignment"],
+    "answer": "Strict equality (value and type)"
+  },
+  {
+    "id": 4,
+    "question": "How do you declare an arrow function?",
+    "options": ["const func = () => {}", "const func = function {}", "arrow func {}", "function => {}"],
+    "answer": "const func = () => {}"
+  },
+  {
+    "id": 5,
+    "question": "Which array method creates a new array with filtered values?",
+    "options": ["filter()", "map()", "forEach()", "reduce()"],
+    "answer": "filter()"
+  },
+  {
+    "id": 6,
+    "question": "What is the output of `typeof NaN`?",
+    "options": ["number", "NaN", "undefined", "object"],
+    "answer": "number"
+  },
+  {
+    "id": 7,
+    "question": "Which method removes the first element of an array?",
+    "options": ["shift()", "pop()", "splice()", "unshift()"],
+    "answer": "shift()"
+  },
+  {
+    "id": 8,
+    "question": "Which method merges two or more arrays?",
+    "options": ["concat()", "merge()", "combine()", "join()"],
+    "answer": "concat()"
+  },
+  {
+    "id": 9,
+    "question": "Which keyword is used to handle asynchronous operations more cleanly?",
+    "options": ["async/await", "callback", "promise.then", "setTimeout"],
+    "answer": "async/await"
+  },
+  {
+    "id": 10,
+    "question": "Which function is used to delay execution of code?",
+    "options": ["setTimeout()", "setInterval()", "delay()", "pause()"],
+    "answer": "setTimeout()"
+  },
+  {
+    "id": 11,
+    "question": "Which method is used to convert an object to a JSON string?",
+    "options": ["JSON.stringify()", "JSON.parse()", "toString()", "Object.stringify()"],
+    "answer": "JSON.stringify()"
+  },
+  {
+    "id": 12,
+    "question": "What will `Boolean('')` return?",
+    "options": ["false", "true", "null", "undefined"],
+    "answer": "false"
+  },
+  {
+    "id": 13,
+    "question": "Which method executes a provided function once for each array element?",
+    "options": ["forEach()", "map()", "filter()", "reduce()"],
+    "answer": "forEach()"
+  },
+  {
+    "id": 14,
+    "question": "Which keyword stops further propagation of an event?",
+    "options": ["event.stopPropagation()", "event.preventDefault()", "stop()", "cancelEvent()"],
+    "answer": "event.stopPropagation()"
+  },
+  {
+    "id": 15,
+    "question": "Which method returns the index of the first occurrence of a specified value in an array?",
+    "options": ["indexOf()", "find()", "search()", "locate()"],
+    "answer": "indexOf()"
+  }
+]
