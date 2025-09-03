@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the file extension for Python files?",
+    "options": [".py", ".python", ".txt", ".exe"],
+    "answer": ".py"
+  },
+  {
+    "id": 2,
+    "question": "Who developed Python?",
+    "options": ["Guido van Rossum", "Dennis Ritchie", "James Gosling", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "id": 3,
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["def", "func", "function", "lambda"],
+    "answer": "def"
+  },
+  {
+    "id": 4,
+    "question": "What symbol is used for comments in Python?",
+    "options": ["#", "//", "/* */", "<!-- -->"],
+    "answer": "#"
+  },
+  {
+    "id": 5,
+    "question": "Which function is used to display output in Python?",
+    "options": ["print()", "echo()", "display()", "write()"],
+    "answer": "print()"
+  },
+  {
+    "id": 6,
+    "question": "What is the default data type of `10` in Python?",
+    "options": ["int", "float", "string", "boolean"],
+    "answer": "int"
+  },
+  {
+    "id": 7,
+    "question": "What is the correct way to start a for loop?",
+    "options": ["for i in range(5):", "for(i=0;i<5;i++)", "loop for i in 5", "foreach i in range(5)"],
+    "answer": "for i in range(5):"
+  },
+  {
+    "id": 8,
+    "question": "How do you define a variable in Python?",
+    "options": ["variable x = 5", "x = 5", "int x = 5", "var x = 5"],
+    "answer": "x = 5"
+  },
+  {
+    "id": 9,
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["**", "^", "*", "//"],
+    "answer": "**"
+  },
+  {
+    "id": 10,
+    "question": "What does `len()` function do?",
+    "options": ["Returns length of an object", "Returns last element", "Returns type", "Returns index"],
+    "answer": "Returns length of an object"
+  },
+  {
+    "id": 11,
+    "question": "What is the output of `print(type('hello'))`?",
+    "options": ["<class 'str'>", "<class 'int'>", "<class 'list'>", "<class 'tuple'>"],
+    "answer": "<class 'str'>"
+  },
+  {
+    "id": 12,
+    "question": "How do you start a function definition?",
+    "options": ["def function_name():", "function function_name():", "define function_name():", "func function_name():"],
+    "answer": "def function_name():"
+  },
+  {
+    "id": 13,
+    "question": "How do you write an infinite loop in Python?",
+    "options": ["while True:", "for(;;)", "loop forever", "while(1<2)"],
+    "answer": "while True:"
+  },
+  {
+    "id": 14,
+    "question": "Which keyword is used to exit a loop in Python?",
+    "options": ["break", "exit", "stop", "quit"],
+    "answer": "break"
+  },
+  {
+    "id": 15,
+    "question": "What is the output of `print(5//2)`?",
+    "options": ["2", "2.5", "3", "1"],
+    "answer": "2"
+  },
+  {
+    "id": 16,
+    "question": "Which data structure is mutable in Python?",
+    "options": ["list", "tuple", "string", "frozenset"],
+    "answer": "list"
+  },
+  {
+    "id": 17,
+    "question": "How do you convert a string to lowercase?",
+    "options": ["lower()", "downcase()", "tolower()", "to_lower()"],
+    "answer": "lower()"
+  },
+  {
+    "id": 18,
+    "question": "Which keyword is used for defining a class in Python?",
+    "options": ["class", "struct", "define", "type"],
+    "answer": "class"
+  },
+  {
+    "id": 19,
+    "question": "What is the default value of a function parameter if not provided?",
+    "options": ["None", "0", "False", "Empty String"],
+    "answer": "None"
+  },
+  {
+    "id": 20,
+    "question": "Which module is used to generate random numbers?",
+    "options": ["random", "math", "numbers", "os"],
+    "answer": "random"
+  }
+]
