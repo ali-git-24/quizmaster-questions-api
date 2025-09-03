@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "Which data type is used for key-value pairs in Python?",
+    "options": ["Dictionary", "List", "Tuple", "Set"],
+    "answer": "Dictionary"
+  },
+  {
+    "id": 2,
+    "question": "How do you handle exceptions in Python?",
+    "options": ["try-except", "if-else", "switch-case", "try-catch"],
+    "answer": "try-except"
+  },
+  {
+    "id": 3,
+    "question": "What does the `with` statement help with in Python?",
+    "options": [
+      "Resource management",
+      "Variable declaration",
+      "Looping",
+      "Importing modules"
+    ],
+    "answer": "Resource management"
+  },
+  {
+    "id": 4,
+    "question": "What will `list('abc')` return?",
+    "options": [["a","b","c"], "['abc']", "[['abc']]", "['a b c']"],
+    "answer": ["a","b","c"]
+  },
+  {
+    "id": 5,
+    "question": "What is the output of `' '.join(['Hello','World'])`?",
+    "options": ["Hello World", "['Hello','World']", "Hello,World", "['Hello World']"],
+    "answer": "Hello World"
+  },
+  {
+    "id": 6,
+    "question": "Which library is used for numerical operations?",
+    "options": ["numpy", "mathlib", "pandas", "statistics"],
+    "answer": "numpy"
+  },
+  {
+    "id": 7,
+    "question": "Which keyword is used to inherit a class?",
+    "options": ["class Derived(Base):", "inherit Base", "extends Base", "Base.inherit"],
+    "answer": "class Derived(Base):"
+  },
+  {
+    "id": 8,
+    "question": "What is the output of `bool('False')`?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "True"
+  },
+  {
+    "id": 9,
+    "question": "How do you read a file line by line in Python?",
+    "options": ["for line in open('file.txt'):", "read(file)", "readline(file)", "readlines(file)"],
+    "answer": "for line in open('file.txt'):"
+  },
+  {
+    "id": 10,
+    "question": "Which function is used to get the memory address of an object?",
+    "options": ["id()", "address()", "location()", "ref()"],
+    "answer": "id()"
+  },
+  {
+    "id": 11,
+    "question": "Which module in Python supports regular expressions?",
+    "options": ["re", "regex", "string", "match"],
+    "answer": "re"
+  },
+  {
+    "id": 12,
+    "question": "What is the purpose of `enumerate()`?",
+    "options": [
+      "Iterate with index and value",
+      "Count the elements",
+      "Sort a list",
+      "Map two lists"
+    ],
+    "answer": "Iterate with index and value"
+  },
+  {
+    "id": 13,
+    "question": "What is a lambda function?",
+    "options": [
+      "Anonymous function",
+      "Recursive function",
+      "Loop function",
+      "Inline import"
+    ],
+    "answer": "Anonymous function"
+  },
+  {
+    "id": 14,
+    "question": "What is the output of `type([])`?",
+    "options": ["<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'set'>"],
+    "answer": "<class 'list'>"
+  },
+  {
+    "id": 15,
+    "question": "What will happen if you divide by zero in Python?",
+    "options": ["ZeroDivisionError", "None", "Infinity", "No error"],
+    "answer": "ZeroDivisionError"
+  }
+]
