@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct plural form of 'child'.",
+    "options": ["childs", "childrens", "children", "child"],
+    "answer": "children"
+  },
+  {
+    "id": 2,
+    "question": "Which word is a synonym of 'happy'?",
+    "options": ["sad", "joyful", "angry", "tired"],
+    "answer": "joyful"
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: She ___ to school every day.",
+    "options": ["go", "goes", "gone", "going"],
+    "answer": "goes"
+  },
+  {
+    "id": 4,
+    "question": "Which of these is a vowel?",
+    "options": ["B", "C", "E", "G"],
+    "answer": "E"
+  },
+  {
+    "id": 5,
+    "question": "Choose the opposite of 'hot'.",
+    "options": ["warm", "cold", "heat", "cooler"],
+    "answer": "cold"
+  },
+  {
+    "id": 6,
+    "question": "Identify the noun in this sentence: 'The dog is barking.'",
+    "options": ["dog", "is", "barking", "the"],
+    "answer": "dog"
+  },
+  {
+    "id": 7,
+    "question": "Select the correct article: He is ___ honest man.",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an"
+  },
+  {
+    "id": 8,
+    "question": "Which of these words is a verb?",
+    "options": ["run", "table", "beautiful", "quick"],
+    "answer": "run"
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: They ___ playing football now.",
+    "options": ["is", "are", "was", "were"],
+    "answer": "are"
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct spelling.",
+    "options": ["definately", "definitely", "definitly", "definetely"],
+    "answer": "definitely"
+  },
+  {
+    "id": 11,
+    "question": "Which pronoun replaces the noun 'John and I'?",
+    "options": ["He", "We", "They", "Them"],
+    "answer": "We"
+  },
+  {
+    "id": 12,
+    "question": "Choose the opposite of 'up'.",
+    "options": ["down", "top", "above", "over"],
+    "answer": "down"
+  },
+  {
+    "id": 13,
+    "question": "What is the past tense of 'go'?",
+    "options": ["went", "gone", "going", "goes"],
+    "answer": "went"
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: This book is ___ the table.",
+    "options": ["on", "in", "at", "by"],
+    "answer": "on"
+  },
+  {
+    "id": 15,
+    "question": "Select the correct synonym for 'big'.",
+    "options": ["tiny", "large", "small", "narrow"],
+    "answer": "large"
+  },
+  {
+    "id": 16,
+    "question": "Choose the word that is an adjective.",
+    "options": ["quickly", "beautiful", "run", "table"],
+    "answer": "beautiful"
+  },
+  {
+    "id": 17,
+    "question": "Which of these is a conjunction?",
+    "options": ["and", "run", "table", "blue"],
+    "answer": "and"
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: There ___ a lot of people at the park.",
+    "options": ["is", "are", "am", "be"],
+    "answer": "are"
+  },
+  {
+    "id": 19,
+    "question": "Choose the plural form of 'mouse'.",
+    "options": ["mouses", "mouse", "mices", "mice"],
+    "answer": "mice"
+  },
+  {
+    "id": 20,
+    "question": "What is the opposite of 'day'?",
+    "options": ["morning", "night", "afternoon", "evening"],
+    "answer": "night"
+  }
+]
