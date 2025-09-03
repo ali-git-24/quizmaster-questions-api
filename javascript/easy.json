@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What does JS stand for?",
+    "options": ["JavaScript", "JavaSyntax", "JustScript", "JQueryScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": ["var", "int", "declare", "define"],
+    "answer": "var"
+  },
+  {
+    "id": 3,
+    "question": "Which company developed JavaScript?",
+    "options": ["Netscape", "Microsoft", "Google", "Apple"],
+    "answer": "Netscape"
+  },
+  {
+    "id": 4,
+    "question": "Which symbol is used for comments in JavaScript (single-line)?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": "//"
+  },
+  {
+    "id": 5,
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": ["alert('Hello World');", "msg('Hello World');", "prompt('Hello World');", "msgBox('Hello World');"],
+    "answer": "alert('Hello World');"
+  },
+  {
+    "id": 6,
+    "question": "Which operator is used for assignment?",
+    "options": ["=", "==", "===", ":"],
+    "answer": "="
+  },
+  {
+    "id": 7,
+    "question": "Which keyword declares a block-scoped variable?",
+    "options": ["let", "var", "block", "constant"],
+    "answer": "let"
+  },
+  {
+    "id": 8,
+    "question": "Which operator is used to concatenate strings?",
+    "options": ["+", "&", ".", ","],
+    "answer": "+"
+  },
+  {
+    "id": 9,
+    "question": "How do you create a function in JavaScript?",
+    "options": ["function myFunc() {}", "def myFunc()", "create function myFunc()", "func myFunc()"],
+    "answer": "function myFunc() {}"
+  },
+  {
+    "id": 10,
+    "question": "How can you convert a string to a number in JS?",
+    "options": ["Number()", "String()", "parseString()", "toNumber()"],
+    "answer": "Number()"
+  },
+  {
+    "id": 11,
+    "question": "Which method logs output to the browser console?",
+    "options": ["console.log()", "log.console()", "print()", "echo()"],
+    "answer": "console.log()"
+  },
+  {
+    "id": 12,
+    "question": "Which method removes the last element of an array?",
+    "options": ["pop()", "push()", "shift()", "slice()"],
+    "answer": "pop()"
+  },
+  {
+    "id": 13,
+    "question": "What is the default data type of variables in JavaScript?",
+    "options": ["undefined", "number", "string", "null"],
+    "answer": "undefined"
+  },
+  {
+    "id": 14,
+    "question": "How do you check the length of an array?",
+    "options": ["array.length", "array.size", "length(array)", "array.count"],
+    "answer": "array.length"
+  },
+  {
+    "id": 15,
+    "question": "Which method adds an element to the end of an array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()"
+  },
+  {
+    "id": 16,
+    "question": "Which value represents 'no value' in JavaScript?",
+    "options": ["null", "undefined", "NaN", "false"],
+    "answer": "null"
+  },
+  {
+    "id": 17,
+    "question": "Which boolean value represents 'false'?",
+    "options": ["false", "null", "0", "undefined"],
+    "answer": "false"
+  },
+  {
+    "id": 18,
+    "question": "Which function parses a string into an integer?",
+    "options": ["parseInt()", "parseFloat()", "Number()", "int()"],
+    "answer": "parseInt()"
+  },
+  {
+    "id": 19,
+    "question": "Which keyword declares a constant variable?",
+    "options": ["const", "constant", "var", "define"],
+    "answer": "const"
+  },
+  {
+    "id": 20,
+    "question": "What is the result of `typeof null`?",
+    "options": ["object", "null", "undefined", "number"],
+    "answer": "object"
+  }
+]
