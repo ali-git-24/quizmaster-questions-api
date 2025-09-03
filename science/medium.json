@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the chemical formula of table salt?",
+    "options": ["NaCl", "KCl", "NaOH", "CaCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "id": 2,
+    "question": "Which gas is used in the process of photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 3,
+    "question": "What part of the cell contains genetic material?",
+    "options": ["Cytoplasm", "Nucleus", "Mitochondria", "Golgi Body"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 4,
+    "question": "What is the SI unit of force?",
+    "options": ["Pascal", "Newton", "Joule", "Watt"],
+    "answer": "Newton"
+  },
+  {
+    "id": 5,
+    "question": "Which organ in the human body produces bile?",
+    "options": ["Kidney", "Liver", "Pancreas", "Stomach"],
+    "answer": "Liver"
+  },
+  {
+    "id": 6,
+    "question": "Which blood cells help in clotting?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "answer": "Platelets"
+  },
+  {
+    "id": 7,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Iron", "Quartz", "Gold"],
+    "answer": "Diamond"
+  },
+  {
+    "id": 8,
+    "question": "What type of energy is stored in a battery?",
+    "options": ["Kinetic Energy", "Potential Chemical Energy", "Thermal Energy", "Nuclear Energy"],
+    "answer": "Potential Chemical Energy"
+  },
+  {
+    "id": 9,
+    "question": "What is the main function of red blood cells?",
+    "options": ["Fight infections", "Transport oxygen", "Produce hormones", "Store nutrients"],
+    "answer": "Transport oxygen"
+  },
+  {
+    "id": 10,
+    "question": "What is the main component of the Sun?",
+    "options": ["Oxygen", "Helium", "Hydrogen", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 11,
+    "question": "What is the pH level of pure water at 25°C?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "id": 12,
+    "question": "Which planet is the largest in the solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 13,
+    "question": "What is the main function of the ozone layer?",
+    "options": ["Produce oxygen", "Block harmful UV rays", "Create rainfall", "Regulate Earth's temperature"],
+    "answer": "Block harmful UV rays"
+  },
+  {
+    "id": 14,
+    "question": "Which scientist proposed the three laws of motion?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 15,
+    "question": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin K", "Vitamin D"],
+    "answer": "Vitamin K"
+  }
+]
