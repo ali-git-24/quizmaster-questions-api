@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "options": ["C.V. Raman", "Rabindranath Tagore", "Mother Teresa", "Hargobind Khorana"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 2,
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "answer": "Kerala"
+  },
+  {
+    "id": 3,
+    "question": "In which year did India launch its first satellite Aryabhata?",
+    "options": ["1972", "1975", "1980", "1984"],
+    "answer": "1975"
+  },
+  {
+    "id": 4,
+    "question": "Who was the first Indian woman to go to space?",
+    "options": ["Kalpana Chawla", "Sunita Williams", "Indira Gandhi", "Kiran Bedi"],
+    "answer": "Kalpana Chawla"
+  },
+  {
+    "id": 5,
+    "question": "What is the currency of Russia?",
+    "options": ["Ruble", "Euro", "Dollar", "Peso"],
+    "answer": "Ruble"
+  },
+  {
+    "id": 6,
+    "question": "Which Indian state has the highest literacy rate?",
+    "options": ["Kerala", "Goa", "Tamil Nadu", "Maharashtra"],
+    "answer": "Kerala"
+  },
+  {
+    "id": 7,
+    "question": "Who is known as the Missile Man of India?",
+    "options": ["Vikram Sarabhai", "Homi Bhabha", "A.P.J. Abdul Kalam", "Satish Dhawan"],
+    "answer": "A.P.J. Abdul Kalam"
+  },
+  {
+    "id": 8,
+    "question": "Which is the largest desert in the world?",
+    "options": ["Thar Desert", "Sahara Desert", "Gobi Desert", "Kalahari Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "id": 9,
+    "question": "Who is the author of the book 'Wings of Fire'?",
+    "options": ["A.P.J. Abdul Kalam", "R.K. Narayan", "Arundhati Roy", "Chetan Bhagat"],
+    "answer": "A.P.J. Abdul Kalam"
+  },
+  {
+    "id": 10,
+    "question": "Which Indian state is famous for tea production?",
+    "options": ["Assam", "Kerala", "Punjab", "Madhya Pradesh"],
+    "answer": "Assam"
+  },
+  {
+    "id": 11,
+    "question": "In which year was the Indian Space Research Organisation (ISRO) founded?",
+    "options": ["1962", "1965", "1969", "1972"],
+    "answer": "1969"
+  },
+  {
+    "id": 12,
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Kosi", "Ganga", "Son", "Gandak"],
+    "answer": "Kosi"
+  },
+  {
+    "id": 13,
+    "question": "Which Indian cricketer is known as the 'Wall'?",
+    "options": ["Rahul Dravid", "Sachin Tendulkar", "Sourav Ganguly", "MS Dhoni"],
+    "answer": "Rahul Dravid"
+  },
+  {
+    "id": 14,
+    "question": "Which state is the largest producer of wheat in India?",
+    "options": ["Punjab", "Uttar Pradesh", "Haryana", "Madhya Pradesh"],
+    "answer": "Uttar Pradesh"
+  },
+  {
+    "id": 15,
+    "question": "What is the study of coins called?",
+    "options": ["Numismatics", "Philately", "Cartography", "Anthropology"],
+    "answer": "Numismatics"
+  }
+]
