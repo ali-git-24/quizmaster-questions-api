@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the event loop in JavaScript responsible for?",
+    "options": [
+      "Handling asynchronous callbacks",
+      "Compiling code",
+      "Creating variables",
+      "Blocking the main thread"
+    ],
+    "answer": "Handling asynchronous callbacks"
+  },
+  {
+    "id": 2,
+    "question": "What is a closure in JavaScript?",
+    "options": [
+      "A function bundled with its lexical scope",
+      "An object with private variables",
+      "A method for closing scripts",
+      "A way to terminate functions"
+    ],
+    "answer": "A function bundled with its lexical scope"
+  },
+  {
+    "id": 3,
+    "question": "What will `console.log([] == ![])` output?",
+    "options": ["true", "false", "undefined", "Error"],
+    "answer": "true"
+  },
+  {
+    "id": 4,
+    "question": "What is the output of `typeof undefined`?",
+    "options": ["undefined", "object", "null", "NaN"],
+    "answer": "undefined"
+  },
+  {
+    "id": 5,
+    "question": "Which method is used to deep clone an object?",
+    "options": ["structuredClone()", "Object.assign()", "clone()", "copyObject()"],
+    "answer": "structuredClone()"
+  },
+  {
+    "id": 6,
+    "question": "What is the difference between `call()` and `apply()` in JavaScript?",
+    "options": [
+      "apply takes arguments as an array, call takes them individually",
+      "call is asynchronous, apply is synchronous",
+      "apply is faster",
+      "They are identical"
+    ],
+    "answer": "apply takes arguments as an array, call takes them individually"
+  },
+  {
+    "id": 7,
+    "question": "What does `Object.freeze()` do?",
+    "options": [
+      "Prevents modification of existing properties",
+      "Deletes an object",
+      "Converts object to string",
+      "Creates a deep copy"
+    ],
+    "answer": "Prevents modification of existing properties"
+  },
+  {
+    "id": 8,
+    "question": "What does `async` function always return?",
+    "options": ["A Promise", "A Boolean", "undefined", "A Generator"],
+    "answer": "A Promise"
+  },
+  {
+    "id": 9,
+    "question": "What does the optional chaining operator `?.` do?",
+    "options": [
+      "Safely accesses nested properties without throwing an error",
+      "Creates optional variables",
+      "Declares optional functions",
+      "Skips compilation errors"
+    ],
+    "answer": "Safely accesses nested properties without throwing an error"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of `Symbol` in JavaScript?",
+    "options": [
+      "Create unique identifiers",
+      "Generate random strings",
+      "Store numbers only",
+      "Handle math operations"
+    ],
+    "answer": "Create unique identifiers"
+  }
+]
