@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "Which CSS property is used to create space inside an element, between the content and the border?",
+    "options": ["padding", "margin", "spacing", "border-width"],
+    "answer": "padding"
+  },
+  {
+    "id": 2,
+    "question": "What is the difference between `inline` and `inline-block` elements?",
+    "options": [
+      "inline-block allows setting height and width, inline does not",
+      "inline is always full-width, inline-block is not",
+      "They are identical",
+      "inline-block floats elements automatically"
+    ],
+    "answer": "inline-block allows setting height and width, inline does not"
+  },
+  {
+    "id": 3,
+    "question": "Which property is used to create rounded corners?",
+    "options": ["border-radius", "corner-radius", "round-corners", "border-style"],
+    "answer": "border-radius"
+  },
+  {
+    "id": 4,
+    "question": "Which pseudo-class selects the first child of an element?",
+    "options": [":first-child", ":first-of-type", ":first", ":nth-child(1)"],
+    "answer": ":first-child"
+  },
+  {
+    "id": 5,
+    "question": "Which property is used to control the stacking order of elements?",
+    "options": ["z-index", "order", "stack", "priority"],
+    "answer": "z-index"
+  },
+  {
+    "id": 6,
+    "question": "Which CSS property is used for smooth animations when properties change?",
+    "options": ["transition", "animation", "transform", "effect"],
+    "answer": "transition"
+  },
+  {
+    "id": 7,
+    "question": "What is the default flex direction in a flex container?",
+    "options": ["row", "column", "row-reverse", "column-reverse"],
+    "answer": "row"
+  },
+  {
+    "id": 8,
+    "question": "Which property specifies how flex items grow relative to the rest?",
+    "options": ["flex-grow", "flex-shrink", "flex-basis", "order"],
+    "answer": "flex-grow"
+  },
+  {
+    "id": 9,
+    "question": "Which CSS property creates a shadow behind text?",
+    "options": ["text-shadow", "box-shadow", "shadow-text", "font-shadow"],
+    "answer": "text-shadow"
+  },
+  {
+    "id": 10,
+    "question": "Which pseudo-class applies styles when an input field is focused?",
+    "options": [":focus", ":hover", ":active", ":checked"],
+    "answer": ":focus"
+  },
+  {
+    "id": 11,
+    "question": "Which CSS property is used to align items in a flex container vertically?",
+    "options": ["align-items", "justify-content", "flex-align", "align-content"],
+    "answer": "align-items"
+  },
+  {
+    "id": 12,
+    "question": "Which position value places an element relative to its closest positioned ancestor?",
+    "options": ["absolute", "relative", "static", "fixed"],
+    "answer": "absolute"
+  },
+  {
+    "id": 13,
+    "question": "Which property is used to clip content that overflows its container?",
+    "options": ["overflow", "clip", "hidden", "mask"],
+    "answer": "overflow"
+  },
+  {
+    "id": 14,
+    "question": "Which value of `display` creates a flexible box layout?",
+    "options": ["flex", "grid", "block", "inline-block"],
+    "answer": "flex"
+  },
+  {
+    "id": 15,
+    "question": "Which CSS rule is used to import external CSS into a stylesheet?",
+    "options": ["@import", "@link", "@use", "@style"],
+    "answer": "@import"
+  }
+]
