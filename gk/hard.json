@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first Indian to win an individual Olympic gold medal?",
+    "options": ["Abhinav Bindra", "Milkha Singh", "Leander Paes", "PV Sindhu"],
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "id": 2,
+    "question": "Which is the oldest mountain range in India?",
+    "options": ["Himalayas", "Aravalli Range", "Vindhya Range", "Satpura Range"],
+    "answer": "Aravalli Range"
+  },
+  {
+    "id": 3,
+    "question": "Who was the first Indian to travel to space?",
+    "options": ["Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Ravish Malhotra"],
+    "answer": "Rakesh Sharma"
+  },
+  {
+    "id": 4,
+    "question": "Which Indian scientist was awarded the Nobel Prize in Physics in 1930?",
+    "options": ["C.V. Raman", "Satyendra Nath Bose", "Homi Bhabha", "Meghnad Saha"],
+    "answer": "C.V. Raman"
+  },
+  {
+    "id": 5,
+    "question": "The 'Battle of Plassey' was fought in which year?",
+    "options": ["1757", "1764", "1857", "1799"],
+    "answer": "1757"
+  },
+  {
+    "id": 6,
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "id": 7,
+    "question": "Which is the largest gland in the human body?",
+    "options": ["Pancreas", "Liver", "Thyroid", "Adrenal"],
+    "answer": "Liver"
+  },
+  {
+    "id": 8,
+    "question": "In which year was the Reserve Bank of India (RBI) established?",
+    "options": ["1935", "1947", "1950", "1921"],
+    "answer": "1935"
+  },
+  {
+    "id": 9,
+    "question": "Which city is known as the 'City of Palaces' in India?",
+    "options": ["Mysuru", "Jaipur", "Kolkata", "Hyderabad"],
+    "answer": "Mysuru"
+  },
+  {
+    "id": 10,
+    "question": "Which Indian mathematician is known for his work in number theory and infinite series?",
+    "options": ["Srinivasa Ramanujan", "Aryabhata", "Bhaskara", "Harish-Chandra"],
+    "answer": "Srinivasa Ramanujan"
+  }
+]
