@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which storage class is used to store a variable throughout the program?",
+    "options": ["static", "auto", "register", "extern"],
+    "answer": "static"
+  },
+  {
+    "id": 2,
+    "question": "What is the output of `printf(\"%d\", 5/2);`?",
+    "options": ["2", "2.5", "3", "Error"],
+    "answer": "2"
+  },
+  {
+    "id": 3,
+    "question": "What is the result of `sizeof('A')`?",
+    "options": ["4", "2", "1", "Depends on compiler"],
+    "answer": "4"
+  },
+  {
+    "id": 4,
+    "question": "What is the base address of an array in C?",
+    "options": ["Address of first element", "Address of last element", "Random address", "Not defined"],
+    "answer": "Address of first element"
+  },
+  {
+    "id": 5,
+    "question": "Which operator is used to access a structure member through a pointer?",
+    "options": ["->", ".", "&", "*"],
+    "answer": "->"
+  },
+  {
+    "id": 6,
+    "question": "What does `break` do in a loop?",
+    "options": ["Exits the loop", "Skips an iteration", "Stops the program", "Nothing"],
+    "answer": "Exits the loop"
+  },
+  {
+    "id": 7,
+    "question": "Which keyword is used to dynamically allocate memory?",
+    "options": ["malloc", "alloc", "new", "memory"],
+    "answer": "malloc"
+  },
+  {
+    "id": 8,
+    "question": "What is a pointer in C?",
+    "options": ["Variable that stores an address", "Constant value", "Array element", "Function call"],
+    "answer": "Variable that stores an address"
+  },
+  {
+    "id": 9,
+    "question": "What does the `continue` statement do?",
+    "options": ["Skips current iteration", "Stops program", "Exits loop", "Restarts program"],
+    "answer": "Skips current iteration"
+  },
+  {
+    "id": 10,
+    "question": "Which function releases allocated memory?",
+    "options": ["free()", "delete()", "remove()", "release()"],
+    "answer": "free()"
+  },
+  {
+    "id": 11,
+    "question": "Which keyword is used for conditional compilation?",
+    "options": ["#if", "#define", "#include", "#endif"],
+    "answer": "#if"
+  },
+  {
+    "id": 12,
+    "question": "What is the return type of `main()` in standard C?",
+    "options": ["int", "void", "char", "float"],
+    "answer": "int"
+  },
+  {
+    "id": 13,
+    "question": "What does the `sizeof` operator return for a pointer?",
+    "options": ["Size of the pointer", "Size of the data pointed", "Number of bytes used", "Length of string"],
+    "answer": "Size of the pointer"
+  },
+  {
+    "id": 14,
+    "question": "What does `strcpy()` function do?",
+    "options": ["Copies one string to another", "Compares two strings", "Concatenates strings", "Deletes a string"],
+    "answer": "Copies one string to another"
+  },
+  {
+    "id": 15,
+    "question": "Which loop is known as an entry-controlled loop?",
+    "options": ["while", "do-while", "goto", "switch"],
+    "answer": "while"
+  }
+]
