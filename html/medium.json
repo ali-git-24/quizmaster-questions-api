@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which HTML5 element is used to embed a video?",
+    "options": ["<video>", "<media>", "<embed>", "<movie>"],
+    "answer": "<video>"
+  },
+  {
+    "id": 2,
+    "question": "Which attribute is used to provide a unique identifier for an HTML element?",
+    "options": ["id", "class", "name", "key"],
+    "answer": "id"
+  },
+  {
+    "id": 3,
+    "question": "Which element is used for semantic navigation links in HTML5?",
+    "options": ["<nav>", "<menu>", "<ul>", "<navlink>"],
+    "answer": "<nav>"
+  },
+  {
+    "id": 4,
+    "question": "Which input type creates a checkbox?",
+    "options": ["type=\"checkbox\"", "type=\"radio\"", "type=\"text\"", "type=\"option\""],
+    "answer": "type=\"checkbox\""
+  },
+  {
+    "id": 5,
+    "question": "How do you include an external CSS file in an HTML document?",
+    "options": ["<link rel=\"stylesheet\" href=\"style.css\">", "<style src=\"style.css\">", "<script src=\"style.css\"></script>", "<css href=\"style.css\">"],
+    "answer": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "id": 6,
+    "question": "Which tag is used to define a table header cell?",
+    "options": ["<th>", "<td>", "<thead>", "<tr>"],
+    "answer": "<th>"
+  },
+  {
+    "id": 7,
+    "question": "What is the correct HTML element for playing audio files?",
+    "options": ["<audio>", "<sound>", "<mp3>", "<music>"],
+    "answer": "<audio>"
+  },
+  {
+    "id": 8,
+    "question": "Which attribute is used to group radio buttons so only one can be selected?",
+    "options": ["name", "id", "group", "value"],
+    "answer": "name"
+  },
+  {
+    "id": 9,
+    "question": "Which element represents self-contained content that could be distributed independently (HTML5)?",
+    "options": ["<article>", "<section>", "<div>", "<aside>"],
+    "answer": "<article>"
+  },
+  {
+    "id": 10,
+    "question": "Which attribute on <form> specifies the HTTP method (GET or POST)?",
+    "options": ["method", "action", "type", "request"],
+    "answer": "method"
+  },
+  {
+    "id": 11,
+    "question": "Which tag is used to define a caption for a table?",
+    "options": ["<caption>", "<title>", "<label>", "<thead>"],
+    "answer": "<caption>"
+  },
+  {
+    "id": 12,
+    "question": "What is the correct way to require a form field to be filled out before submission?",
+    "options": ["Add the required attribute", "Add validate=\"true\"", "Add mandatory=\"yes\"", "Add mustfill attribute"],
+    "answer": "Add the required attribute"
+  },
+  {
+    "id": 13,
+    "question": "Which meta tag sets the character encoding to UTF-8?",
+    "options": ["<meta charset=\"UTF-8\">", "<meta encoding=\"utf-8\">", "<meta http-equiv=\"encoding\">", "<meta content-type=\"UTF-8\">"],
+    "answer": "<meta charset=\"UTF-8\">"
+  },
+  {
+    "id": 14,
+    "question": "Which element is appropriate for content that is tangentially related to the main content (HTML5)?",
+    "options": ["<aside>", "<footer>", "<header>", "<main>"],
+    "answer": "<aside>"
+  },
+  {
+    "id": 15,
+    "question": "What does the attribute crossorigin=\"anonymous\" on a <script> or <link> tag control?",
+    "options": ["CORS behavior for fetching the resource", "Compression type", "Cache expiration", "Character encoding"],
+    "answer": "CORS behavior for fetching the resource"
+  }
+]
