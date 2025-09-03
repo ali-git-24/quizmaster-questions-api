@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is GIL in Python?",
+    "options": [
+      "Global Interpreter Lock",
+      "Global Instance Library",
+      "Generic Input Loader",
+      "Graphical Interface Layer"
+    ],
+    "answer": "Global Interpreter Lock"
+  },
+  {
+    "id": 2,
+    "question": "Which module is used for multithreading in Python?",
+    "options": ["threading", "multiprocessing", "parallel", "thread"],
+    "answer": "threading"
+  },
+  {
+    "id": 3,
+    "question": "What is a metaclass in Python?",
+    "options": [
+      "A class that defines the behavior of classes",
+      "A class object",
+      "A type of decorator",
+      "A subclass of object"
+    ],
+    "answer": "A class that defines the behavior of classes"
+  },
+  {
+    "id": 4,
+    "question": "What will be the output of `list(set([1,2,2,3]))`?",
+    "options": ["[1,2,3]", "[1,1,2,3]", "[2,3]", "[1,2,2,3]"],
+    "answer": "[1,2,3]"
+  },
+  {
+    "id": 5,
+    "question": "Which keyword is used to create generators in Python?",
+    "options": ["yield", "return", "generate", "next"],
+    "answer": "yield"
+  },
+  {
+    "id": 6,
+    "question": "What is monkey patching in Python?",
+    "options": [
+      "Dynamic modification of a class or module at runtime",
+      "Memory allocation strategy",
+      "A type of error handling",
+      "Thread synchronization"
+    ],
+    "answer": "Dynamic modification of a class or module at runtime"
+  },
+  {
+    "id": 7,
+    "question": "What does the `__slots__` variable do in a class?",
+    "options": [
+      "Restricts the creation of instance attributes",
+      "Allocates dynamic memory",
+      "Specifies a default method",
+      "Locks the class"
+    ],
+    "answer": "Restricts the creation of instance attributes"
+  },
+  {
+    "id": 8,
+    "question": "What does the `@property` decorator do?",
+    "options": [
+      "Defines a method as a read-only attribute",
+      "Marks a function as static",
+      "Creates a class method",
+      "Imports built-in properties"
+    ],
+    "answer": "Defines a method as a read-only attribute"
+  },
+  {
+    "id": 9,
+    "question": "Which keyword is used to implement multiple inheritance?",
+    "options": ["class Derived(Base1, Base2):", "class Derived -> Base1, Base2", "inherits(Base1, Base2)", "extend Base1, Base2"],
+    "answer": "class Derived(Base1, Base2):"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of the `__init__.py` file?",
+    "options": [
+      "Marks a directory as a Python package",
+      "Initializes global variables",
+      "Creates virtual environments",
+      "Compiles Python scripts"
+    ],
+    "answer": "Marks a directory as a Python package"
+  }
+]
