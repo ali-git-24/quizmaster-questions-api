@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which HTML attribute and value ensure a link is safe from reverse tabnabbing when opened in a new tab?",
+    "options": ["rel=\"noopener noreferrer\" along with target=\"_blank\"", "rel=\"nofollow\" with target=\"_blank\"", "rel=\"external\" with target=\"_self\"", "rel=\"noreferrer\" without target"],
+    "answer": "rel=\"noopener noreferrer\" along with target=\"_blank\""
+  },
+  {
+    "id": 2,
+    "question": "Which element and attribute are used to specify a small independent piece of HTML that can be reused via JavaScript (template)?",
+    "options": ["<template> element", "<fragment> element", "<slot> element", "<clone> element"],
+    "answer": "<template> element"
+  },
+  {
+    "id": 3,
+    "question": "Which HTTP attribute used in <a> or <form> can be used to hint that navigation should be performed in the background (fetch-like) in supporting browsers?",
+    "options": ["rel=\"preload\" or rel=\"prefetch\"", "rel=\"noreferrer\"", "rel=\"noopener\"", "rel=\"nofollow\""],
+    "answer": "rel=\"preload\" or rel=\"prefetch\""
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of the srcset attribute on the <img> tag?",
+    "options": ["Provide multiple image sources for responsive images", "Set image title", "Specify image MIME type", "Provide fallback text"],
+    "answer": "Provide multiple image sources for responsive images"
+  },
+  {
+    "id": 5,
+    "question": "Which element allows you to define slots for Web Components (Shadow DOM)?",
+    "options": ["<slot>", "<shadow>", "<component>", "<part>"],
+    "answer": "<slot>"
+  },
+  {
+    "id": 6,
+    "question": "What does the attribute importance=\"low|auto|high\" on resource hints (like <link rel=\"preload\">) influence?",
+    "options": ["Browser resource loading priority", "Character encoding", "Form validation", "Accessibility tree order"],
+    "answer": "Browser resource loading priority"
+  },
+  {
+    "id": 7,
+    "question": "How do you mark up content that should only be visible to screen readers but hidden visually?",
+    "options": ["Use aria-hidden=\"false\" and CSS to hide visually", "Use a common visually-hidden CSS class and keep it in the DOM", "Remove it from DOM with display:none", "Use role=\"presentation\""],
+    "answer": "Use a common visually-hidden CSS class and keep it in the DOM"
+  },
+  {
+    "id": 8,
+    "question": "Which attribute on <iframe> helps to restrict API access such as preventing scripts from running in the framed document (sandboxing)?",
+    "options": ["sandbox", "secure", "restrict", "noreferrer"],
+    "answer": "sandbox"
+  },
+  {
+    "id": 9,
+    "question": "Which ARIA role is appropriate for an element that functions as a tablist containing tabs?",
+    "options": ["role=\"tablist\" on the container and role=\"tab\" on each tab", "role=\"navigation\" for tabs", "role=\"listbox\" for tabs", "role=\"group\" for tabs"],
+    "answer": "role=\"tablist\" on the container and role=\"tab\" on each tab"
+  },
+  {
+    "id": 10,
+    "question": "What is the effect of the attribute hidden on an HTML element?",
+    "options": ["The element is not rendered and is removed from the accessibility tree by default", "The element becomes readonly", "The element is visible but blurred", "The element is only visible on mobile"],
+    "answer": "The element is not rendered and is removed from the accessibility tree by default"
+  }
+]
