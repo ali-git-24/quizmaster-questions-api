@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the value of the gravitational constant (G)?",
+    "options": ["6.674×10⁻¹¹ N·m²/kg²", "9.8 m/s²", "3×10⁸ m/s", "1.6×10⁻¹⁹ C"],
+    "answer": "6.674×10⁻¹¹ N·m²/kg²"
+  },
+  {
+    "id": 2,
+    "question": "Which part of the brain regulates balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Hypothalamus"],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 3,
+    "question": "What is the most abundant element in the universe?",
+    "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 4,
+    "question": "Which law explains the relationship between current, voltage, and resistance?",
+    "options": ["Ohm's Law", "Newton's Law", "Faraday's Law", "Coulomb's Law"],
+    "answer": "Ohm's Law"
+  },
+  {
+    "id": 5,
+    "question": "What is the chemical name of baking soda?",
+    "options": ["Sodium Carbonate", "Sodium Bicarbonate", "Potassium Carbonate", "Calcium Carbonate"],
+    "answer": "Sodium Bicarbonate"
+  },
+  {
+    "id": 6,
+    "question": "What is the approximate speed of light in a vacuum?",
+    "options": ["3×10⁵ m/s", "3×10⁸ m/s", "3×10⁶ m/s", "3×10⁷ m/s"],
+    "answer": "3×10⁸ m/s"
+  },
+  {
+    "id": 7,
+    "question": "Which vitamin is also known as ascorbic acid?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "answer": "Vitamin C"
+  },
+  {
+    "id": 8,
+    "question": "Who is considered the father of modern genetics?",
+    "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "James Watson"],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 9,
+    "question": "Which subatomic particle has a negative charge?",
+    "options": ["Proton", "Neutron", "Electron", "Photon"],
+    "answer": "Electron"
+  },
+  {
+    "id": 10,
+    "question": "What phenomenon explains the bending of light when it passes through water?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "answer": "Refraction"
+  }
+]
